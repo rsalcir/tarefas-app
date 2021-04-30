@@ -14,7 +14,7 @@ Este projeto é divido em duas partes:
 
 ```bash
 # Abra um terminal e execute o comando:
-$ sh start-api.sh
+$ sh start.sh
 ```
 
 
